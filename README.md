@@ -84,6 +84,12 @@ The model then generates a text response based on the visual information in the 
 
 ---
 
+---
+## Flow Diagram
+<img width="1312" height="1199" alt="ChatGPT Image Sep 12, 2026, 01_58_43 PM" src="https://github.com/user-attachments/assets/7acad7b9-dd75-4026-8f20-99957e09d8ba" />
+
+---
+
 ## 🧠 Techniques Used
 
 ### 1. Vision-Language Model Fine-Tuning
